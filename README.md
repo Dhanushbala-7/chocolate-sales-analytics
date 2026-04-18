@@ -96,12 +96,11 @@ This project simulates a real-world retail analytics scenario for a global choco
 
 | Overview | Sales | Finance |
 |---|---|---|
-| ![Overview](screenshots/overview.png) | ![Sales](screenshots/sales.png) | ![Finance](screenshots/finance.png) |
+| ![Overview](overview.png) | ![Sales](sales.png) | ![Finance](finance.png) |
 
 | Customers | Store |
 |---|---|
-| ![Customers](screenshots/customers.png) | ![Store](screenshots/store.png) |
-
+| ![Customers](customers.png) | ![Store](store.png) |
 ---
 
 ## How to Use
