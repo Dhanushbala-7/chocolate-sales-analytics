@@ -106,7 +106,7 @@ This project simulates a real-world retail analytics scenario for a global choco
 
 ## How to Use
 
-1. Click the [Live Dashboard]🔗https://app.powerbi.com/view?r=eyJrIjoiZWU1OGI3NDYtYTNjZS00OTkwLTgyOTItZWNlYzAzNmJiYmYzIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+1. Click the [Live Dashboard](🔗https://app.powerbi.com/view?r=eyJrIjoiZWU1OGI3NDYtYTNjZS00OTkwLTgyOTItZWNlYzAzNmJiYmYzIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
  link to interact with the report
 2. Use the **Category**, **Country**, and **Year** slicers to filter all pages simultaneously
