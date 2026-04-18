@@ -2,7 +2,7 @@
 
 > A 5-page interactive business intelligence report analyzing $25.49M in global chocolate sales across 2023–2024.
 
-📊 **[View Live Dashboard]🔗https://app.powerbi.com/view?r=eyJrIjoiZWU1OGI3NDYtYTNjZS00OTkwLTgyOTItZWNlYzAzNmJiYmYzIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9 **
+📊 **[View Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZWU1OGI3NDYtYTNjZS00OTkwLTgyOTItZWNlYzAzNmJiYmYzIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)**
 
 
 
